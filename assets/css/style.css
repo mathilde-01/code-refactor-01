@@ -32,18 +32,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 a {
     color: #ffffff;
     text-decoration: none;
+    display: inline-block;
+    margin-left: 25px;
 }
 
 p {
@@ -95,7 +88,6 @@ section h2 {
 
 aside {
     margin-right: 20px;
-    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -115,6 +107,10 @@ aside div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+aside div {
+    margin-bottom: 32px;
 }
 
 footer {
