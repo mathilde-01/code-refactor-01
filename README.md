@@ -27,3 +27,5 @@ THEN I find a concise, descriptive title
 
 ## Credits
 [Bootcampspot.instructure.com](https://bootcampspot.instructure.com/courses/4347/assignments/62227?module_item_id=1081167)
+
+[Sarter code](https://github.com/coding-boot-camp/urban-octo-telegram)
