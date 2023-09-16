@@ -1,4 +1,4 @@
-# code-refactor-01
+# code-refactor-horiseon
 Module 1 Challenge - HTML CSS Git Challenge: Code Refactor
 
 ## Description
