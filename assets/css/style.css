@@ -52,13 +52,13 @@ p {
     background-position: center;
 }
 
-section {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-section div {
+main div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -67,7 +67,7 @@ section div {
     color: #ffffff;
 }
 
-section img {
+main img {
     max-height: 200px;
 }
 
@@ -81,7 +81,7 @@ section img {
     margin-left: 25px;
 }
 
-section h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
