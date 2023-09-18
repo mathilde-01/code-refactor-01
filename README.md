@@ -1,7 +1,7 @@
 # code-refactor-horiseon
 Module 1 Challenge - HTML CSS Git Challenge: Code Refactor
 [Link to deployed application](https://mathilde-01.github.io/code-refactor-horiseon/)
-<img source="(assets/images/mathilde-01.github.io_code-refactor-horiseon_.png)">
+<a href="(assets/images/mathilde-01.github.io_code-refactor-horiseon_.png)"Horiseon Site Screenshot></a>
 
 ## Description
 This first module challenge involves a code refactor of a Marketing company, Horiseon. 
