@@ -1,9 +1,11 @@
-* {
+/* universal selector */
+* { 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body and hearder styling */
 body {
     background-color: #d9dcd6;
 }
@@ -32,6 +34,11 @@ header nav {
     font-size: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* navigation link styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -39,10 +46,7 @@ a {
     margin-left: 25px;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* hero banner image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -52,6 +56,7 @@ p {
     background-position: center;
 }
 
+/* main content */
 main {
     width: 75%;
     display: inline-block;
@@ -67,6 +72,12 @@ main div {
     color: #ffffff;
 }
 
+main h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* image styling */
 main img {
     max-height: 200px;
 }
@@ -81,11 +92,7 @@ main img {
     margin-left: 25px;
 }
 
-main h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* aside section styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,6 +120,7 @@ aside div {
     margin-bottom: 32px;
 }
 
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
